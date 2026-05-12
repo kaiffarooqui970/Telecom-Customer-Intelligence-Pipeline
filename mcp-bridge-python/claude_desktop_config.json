@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "data-bridge": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/kaif/mcp-bridge-python",
+        "run",
+        "main.py"
+      ]
+    }
+  },
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "customGroupAssignments": {},
+        "customGroupOrder": {}
+      }
+    }
+  }
+}

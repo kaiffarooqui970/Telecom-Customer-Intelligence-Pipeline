@@ -1,0 +1,12 @@
+# Python Virtual Environment
+venv/
+
+# Python Cache files (junk files Python creates automatically)
+__pycache__/
+*.pyc
+
+# Mac OS hidden system files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
